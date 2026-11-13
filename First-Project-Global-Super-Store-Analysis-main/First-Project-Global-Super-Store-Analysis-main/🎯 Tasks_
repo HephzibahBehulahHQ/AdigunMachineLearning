@@ -1,0 +1,13 @@
+# GLOBAL SUPERSTORE SALES EXPLORATION
+
+# 🎯 Tasks:
+
+#1. Clean column names and remove whitespace
+
+#2. Aggregate sales by Region, Category, and Year
+
+#3. Identify most profitable categories
+
+#4. Merge customer and order tables
+
+#5. Create bar and line plots to show revenue growth
